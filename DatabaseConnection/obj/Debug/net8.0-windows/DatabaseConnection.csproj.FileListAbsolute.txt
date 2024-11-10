@@ -26,3 +26,5 @@ D:\C#\Class\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0-windows\Datab
 D:\C#\Class\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0-windows\DatabaseConnection.Form3.resources
 D:\C#\Class\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0-windows\DatabaseConnection.Form4.resources
 D:\C#\Class\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0-windows\DatabaseConnection.Form5.resources
+D:\C#\Class\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0-windows\DatabaseConnection.Form6.resources
+D:\C#\Class\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0-windows\DatabaseConnection.sourcelink.json
